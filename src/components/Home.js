@@ -24,7 +24,7 @@ const Home = (props) => (
         <Jumbotron>
           <h1>Mensajes de post venta</h1>
           <p className='lead'>
-            Configura de manera sencilla los mensajes de post venta que queres que se envíen de manera automática.
+            Envía mensajes automáticos a tus clientes cada vez que te hacen una compra o su pedido ha cambiado de estado.
           </p>
           <p>
             <Button size='lg' disabled title='Próximamente...'>
