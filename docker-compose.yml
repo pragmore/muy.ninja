@@ -11,3 +11,4 @@ services:
       - '3001:3000'
     environment:
       - NODE_ENV=development
+      - SASS_PATH=node_modules:src

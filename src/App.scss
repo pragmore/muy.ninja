@@ -1,0 +1,13 @@
+@import "variables.scss";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  overflow-x: hidden;
+}
+.logo {
+  margin-top: $spacer * 5;
+}
+
+.footer {
+  margin-top: $spacer * 2;
+}
